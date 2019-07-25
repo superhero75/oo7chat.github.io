@@ -334,4 +334,7 @@
 }
 @media only screen and (max-width: 375px){
     .btn_comparision_plan{font-size: 10px}
+    a.logo img{width: 65%}
+    .navbar-toggler{padding: 3px 5px}
+    .mobile_margin{margin-bottom: 30px}
 }
